@@ -61,6 +61,13 @@ npx openskills install Daisssy40/claude-skills
 
 执行后 OpenSkills 会弹出交互式选择，勾选需要的 Skill 即可，默认全部安装。
 
+**手动安装（Claude.ai 网页版）：**
+
+1. 下载需要的 Skill 文件：
+   - 📖 [study-annotator SKILL.md](https://github.com/Daisssy40/claude-skills/raw/main/study-annotator/SKILL.md)
+   - 💼 [job-application-filter SKILL.md](https://github.com/Daisssy40/claude-skills/raw/main/job-application-filter/SKILL.md)
+2. 打开 Claude.ai → 右上角头像 → **Settings** → **Skills**
+3. 点击 **Upload Skill** → 选择下载的文件上传即可
 ---
 
 ## 📖 study-annotator
